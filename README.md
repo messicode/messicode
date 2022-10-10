@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=790b76118b335ffe7320aee35502a6c20f1c563af3c27125&rid=giphy.gif&ct=g" width="1500px" height="400px"alt="messicode" /></h1>
 
-<h1 align="center"><img src="https://monophy.com/media/0AANKFBOyVC2u81xUj/monophy.gif" width="70px" height="auto">, its Yash.</h1>
+<h1 align="center"><img src="https://monophy.com/media/0AANKFBOyVC2u81xUj/monophy.gif" width="100px" height="auto">, its Yash.</h1>
 <h3 align="center">Just like millions of people, I love problem solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=messicode&label=Profile%20views&color=0e75b6&style=flat" alt="messicode" /> </p>
