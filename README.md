@@ -1,6 +1,9 @@
-<h1 align="center"><img src="/messicode/fireBG.gif?raw=true" width="1500px" height="400px"alt="messicode" /></h1>
 
-<h1 align="center"><img src="/messicode/cartman gif.gif?raw=true" width="100px" height="auto">, its Yash.</h1>
+
+
+<h1 align="center"><img src="https://github.com/messicode/messicode/blob/main/art/fireBG.gif" width="1500px" height="400px"alt="messicode" /></h1>
+
+<h1 align="center"><img src="https://github.com/messicode/messicode/blob/main/art/cartman%20gif.gif?raw=true" width="100px" height="auto">, its Yash.</h1>
 <h3 align="center">Just like millions of people, I love problem solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=messicode&label=Profile%20views&color=0e75b6&style=flat" alt="messicode" /> </p>
