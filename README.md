@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center"><img src="https://github.com/messicode/messicode/blob/main/art/fireBG.gif" width="1500px" height="400px"alt="messicode" /></h1>
 
 <h1 align="center"><img src="https://github.com/messicode/messicode/blob/main/art/cartman%20gif.gif?raw=true" width="100px" height="auto">, its Yash.</h1>
